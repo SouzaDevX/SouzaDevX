@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Alisson <img align="center" src="https://telegra.ph/file/dd4426f1a524cadf7e7fa.png" width="25" alt="Imagem">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neb6la&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouzaDevX&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que eu uso no meu dia
@@ -13,4 +13,4 @@
 </div><br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neb6la&hide_progress=false&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaDevX&hide_progress=false&theme=dark)
